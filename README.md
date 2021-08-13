@@ -10,3 +10,6 @@ https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audi
 SLStarsToken:
 https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_SLStarsToken.pdf
 
+Audit query:
+https://solidproof.io/audits
+
