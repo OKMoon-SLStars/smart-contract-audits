@@ -13,3 +13,5 @@ https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audi
 Audit query:
 https://solidproof.io/audits
 
+Audit company:
+solidproof
